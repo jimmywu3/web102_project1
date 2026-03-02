@@ -4,8 +4,20 @@
   text-align: center;
 }
 
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.main img{
+  width: 100px;
+  height: auto;
+}
+
 h1{
-  color: #FFB2B2;
+  color: #0064A4;
 }
 
 .cards{
