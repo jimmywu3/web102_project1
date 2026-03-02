@@ -34,6 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+If Gif not showing up in the MD view on Github go into the README.md file for the gif link
+
 <img src='https://i.imgur.com/TCPiWck.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
