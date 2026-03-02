@@ -1,0 +1,28 @@
+#root {
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.card{
+    width: 300px;
+    border: 2px solid #FFB2B2;
+    border-radius: 2rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF2D0;
+}
+
+.card img{
+    border-radius: 1rem;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    align-self: center;
+}
+
+.card h3, p{
+    margin: 5px;
+    color: #E36A6A;
+}
